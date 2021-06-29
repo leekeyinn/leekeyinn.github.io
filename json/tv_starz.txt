@@ -1,0 +1,38 @@
+[
+  {
+    "name": "TVStarz",
+    "number": "0",
+    "playlistId":"PLPuACEqdN1IutZ9GhF47ZpF3nlHbwO-_n",
+    "image": "https://i.ytimg.com/vi/IRwtJDPLQyE/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDWsgBQENCPWRAv3BNBgPyjPYcBEg"
+  },
+  {
+    "name": "Cover Song TVSTARZ",
+    "number": "1",
+    "playlistId":"PLPuACEqdN1ItfA-wPbW_dcKFGU1pIlwW0",
+    "image": "https://i.ytimg.com/vi/IRwtJDPLQyE/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDWsgBQENCPWRAv3BNBgPyjPYcBEg"
+  },
+  {
+    "name": "CAPSULE TVSTARZ",
+    "number": "2",
+    "playlistId":"PLPuACEqdN1Iu2lHJdRIOlPy5HfstjDIdx",
+    "image": "https://i.ytimg.com/vi/-Si0WE94bMA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC-VGIgriqiJOvDHGbNNVHZTz821Q"
+  },
+  {
+    "name": "TVSTARZ Daily",
+    "number": "3",
+    "playlistId":"PLPuACEqdN1Is3Ri19Zd_1taCq7Mlre4gK",
+    "image": "https://i.ytimg.com/vi/_w7PGl_4VbA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCF2OZ054TtNtPJpXTi3d_oWfX6sQ"
+  },
+  {
+    "name": "TVSTARZ Daily",
+    "number": "4",
+    "playlistId": "PLPuACEqdN1IvAGMu_KEhkNeix8e9IkYBz",
+    "image": "https://i.ytimg.com/vi/u-qQgeKHgjM/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAhnJgFTxvFjKyz5kLSUTPhhUV8hQ"
+  },
+  {
+    "name": "TVSTARZ RAYA SPECIAL",
+    "number": "5",
+    "playlistId": "PLPuACEqdN1ItbLm6pFHRPs072-3wQF4ga",
+    "image": "https://i.ytimg.com/vi/1ny2bOYf26w/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA-g6M4kI-eBME3n7kTIl-w0RTR5g"
+  }
+]
