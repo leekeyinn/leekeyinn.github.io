@@ -1,0 +1,34 @@
+[
+  {
+    "jsonFile": "https://leekeyinn.github.io/json/tvs_news.json",
+    "case": "1"
+  },
+  {
+    "jsonFile": "https://leekeyinn.github.io/json/discover_sarawak.json",
+    "number": "2"
+  },
+  {
+    "jsonFile": "https://leekeyinn.github.io/json/inspiring_leader.json",
+    "number": "3"
+  },
+  {
+    "jsonFile": "https://leekeyinn.github.io/json/express_music.json",
+    "number": "4"
+  },
+  {
+    "jsonFile": "https://leekeyinn.github.io/json/lifestyle.json",
+    "number": "5"
+  },
+  {
+    "jsonFile": "https://leekeyinn.github.io/json/women_talkshow.json",
+    "number": "6"
+  },
+  {
+    "jsonFile": "https://leekeyinn.github.io/json/tv_starz.json",
+    "number": "7"
+  },
+  {
+    "jsonFile": "https://leekeyinn.github.io/json/tvs_info.json",
+    "number": "8"
+  }
+]
