@@ -3,7 +3,8 @@
     "name": "BERITA TVS",
     "number": "0",
     "image": "https://github.com/leekeyinn/leekeyinn.github.io/blob/master/picture/Berita%20BM.jpg?raw=true",
-    "jsonFile": "https://raw.githubusercontent.com/leekeyinn/leekeyinn.github.io/master/json/bm_news.json"
+    "jsonFile": "https://raw.githubusercontent.com/leekeyinn/leekeyinn.github.io/master/json/bm_news.json",
+    "playlist": "true"
   },
   {
     "name": "BERITA IBAN TVS",
