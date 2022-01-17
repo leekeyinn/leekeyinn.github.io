@@ -1,26 +1,25 @@
 [
   {
     "name": "BERITA TVS",
-    "number": "1",
-    "playlistId":"PLPuACEqdN1IsdQgn6LD0tOdPpiqjXbo2P",
+    "number": "0",
     "image": "https://github.com/leekeyinn/leekeyinn.github.io/blob/master/picture/Berita%20BM.jpg?raw=true",
     "jsonFile": "https://raw.githubusercontent.com/leekeyinn/leekeyinn.github.io/master/json/bm_news.json"
   },
   {
     "name": "BERITA IBAN TVS",
-    "number": "2",
+    "number": "1",
     "playlistId":"PLPuACEqdN1IvfEY2wXKzGnziL_14_FuZ-",
     "image": "https://github.com/leekeyinn/leekeyinn.github.io/blob/master/picture/Berita%20Iban.jpg?raw=true"
   },
   {
     "name": "TVS 热报",
-    "number": "3",
+    "number": "2",
     "playlistId":"PLPuACEqdN1IvgqtEbxiahjJr0pawcnOLu",
     "image": "https://github.com/leekeyinn/leekeyinn.github.io/blob/master/picture/Berita%20Chinese.jpg?raw=true"
   },
   {
     "name": "TVS NEWS",
-    "number": "4",
+    "number": "3",
     "playlistId": "PLPuACEqdN1IsXDezH6N3fDL-wtLIgQ3Ip",
     "image": "https://github.com/leekeyinn/leekeyinn.github.io/blob/master/picture/Berita%20English.jpg?raw=true"
   }
