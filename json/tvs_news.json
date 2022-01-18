@@ -10,21 +10,21 @@
     "name": "BERITA IBAN TVS",
     "number": "1",
     "image": "https://github.com/leekeyinn/leekeyinn.github.io/blob/master/picture/Berita%20Iban.jpg?raw=true",
-    "jsonFile": "https://raw.githubusercontent.com/leekeyinn/leekeyinn.github.io/master/json/bm_news.json",
+    "jsonFile": "https://raw.githubusercontent.com/leekeyinn/leekeyinn.github.io/master/json/iban_news.json",
     "playlist": "true"
   },
   {
     "name": "TVS 热报",
     "number": "2",
     "image": "https://github.com/leekeyinn/leekeyinn.github.io/blob/master/picture/Berita%20Chinese.jpg?raw=true",
-    "jsonFile": "https://raw.githubusercontent.com/leekeyinn/leekeyinn.github.io/master/json/bm_news.json",
+    "jsonFile": "https://raw.githubusercontent.com/leekeyinn/leekeyinn.github.io/master/json/chi_news.json",
     "playlist": "true"
   },
   {
     "name": "TVS NEWS",
     "number": "3",
     "image": "https://github.com/leekeyinn/leekeyinn.github.io/blob/master/picture/Berita%20English.jpg?raw=true",
-    "jsonFile": "https://raw.githubusercontent.com/leekeyinn/leekeyinn.github.io/master/json/bm_news.json",
+    "jsonFile": "https://raw.githubusercontent.com/leekeyinn/leekeyinn.github.io/master/json/eng_news.json",
     "playlist": "true"
   }
 ]
